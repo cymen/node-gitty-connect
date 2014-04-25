@@ -1,0 +1,27 @@
+{
+  "name": "getty-connect",
+  "version": "0.0.1",
+  "description": "Getty Images Connect API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cymen/node-gitty-connect"
+  },
+  "keywords": [
+    "Getty",
+    "Images",
+    "Connect"
+  ],
+  "author": "Cymen Vig <cymenvig@gmail.com>",
+  "licenses": [{
+      "type": "MIT",
+      "url": "https://github.com/cymen/node-getty-connect/blob/master/LICENSE"
+  }],
+  "bugs": {
+    "url": "https://github.com/cymen/node-gitty-connect/issues"
+  },
+  "homepage": "https://github.com/cymen/node-gitty-connect"
+}
